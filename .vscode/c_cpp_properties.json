@@ -3,14 +3,18 @@
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**" ,
-                "C:\\Users\\blare\\Downloads\\SFML-2.6.1-windows-vc17-32-bit\\SFML-2.6.1\\include"
+                "${default}",
+                "C:\\SFML-2.6.1\\include"
             ],
             "defines": [
                 "_DEBUG",
                 "UNICODE",
                 "_UNICODE"
-            ]
+            ],
+            "windowsSdkVersion": "10.0.22621.0",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "intelliSenseMode": "windows-msvc-x64"
         }
     ],
     "version": 4
