@@ -1,6 +1,6 @@
 # Minesweeper Project
 
-<img width="212" alt="image" src="https://github.com/Poiixen/Minesweeper/assets/120151400/1aabc65e-5ff2-4be3-bfe2-d48ef4005063">
+<img width="636" alt="image" src="https://github.com/Poiixen/Minesweeper/assets/120151400/1aabc65e-5ff2-4be3-bfe2-d48ef4005063">
 
 
 ## Description
