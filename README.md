@@ -44,4 +44,4 @@ This project was created by Jorge Garcia.
 This project is licensed under the [MIT License](LICENSE).
 
 
-## Enjoy playing Minesweeper!
+### Enjoy playing Minesweeper!
