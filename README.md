@@ -35,4 +35,13 @@ This project utilizes TypeScript with SFML bindings for graphics and multimedia 
 
 **Note**: Detailed instructions on setting up TypeScript with SFML bindings are beyond the scope of this README but can be found in SFML's official documentation.
 
+## Credits
+
+This project was created by Jorge Garcia.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
 Enjoy playing Minesweeper!
