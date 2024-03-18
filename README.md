@@ -5,7 +5,7 @@
 
 ## Description
 
-This is a Minesweeper project implemented using TypeScript and the SFML (Simple Fast Multimedia Library) bindings. Minesweeper is a classic single-player puzzle game where the player attempts to clear a board containing hidden mines without detonating any of them. The game involves revealing grid spaces and using numerical clues to determine the locations of mines.
+This is a Minesweeper project implemented using the SFML (Simple Fast Multimedia Library) bindings. Minesweeper is a classic single-player puzzle game where the player attempts to clear a board containing hidden mines without detonating any of them. The game involves revealing grid spaces and using numerical clues to determine the locations of mines.
 
 ## Rules Overview
 
@@ -29,11 +29,11 @@ In addition to the standard Minesweeper features, this project includes some non
 - **Debug Button**: Toggles the visibility of mines on the board for testing and debugging purposes.
 - **Test Buttons #1-3**: Load predefined board layouts for testing specific scenarios.
 
-## Using TypeScript with SFML Bindings
+## Using SFML 
 
-This project utilizes TypeScript with SFML bindings for graphics and multimedia functionalities. Compiling an application with SFML bindings may require initial setup but simplifies multimedia development once configured.
+This project utilizes SFML bindings for graphics and multimedia functionalities. Compiling an application with SFML bindings may require initial setup but simplifies multimedia development once configured.
 
-**Note**: Detailed instructions on setting up TypeScript with SFML bindings are beyond the scope of this README but can be found in SFML's official documentation.
+**Note**: Detailed instructions on setting up SFML bindings are beyond the scope of this README but can be found in SFML's official documentation, https://www.sfml-dev.org/ 
 
 ## Credits
 
