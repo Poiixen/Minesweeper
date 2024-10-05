@@ -108,3 +108,7 @@ int main() {
     Textures::Clear();
     return 0;
 }
+
+
+//mingw32-make
+//Cmd.exe /c Project2.out
