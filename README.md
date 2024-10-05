@@ -35,6 +35,16 @@ This project utilizes SFML bindings for graphics and multimedia functionalities.
 
 **Note**: Detailed instructions on setting up SFML bindings are beyond the scope of this README but can be found in SFML's official documentation, https://www.sfml-dev.org/ 
 
+## How to run
+
+In the terminal, using powershell (I believe bash works as well, not tested), compile the make file:
+**mingw32-make**
+
+After compiling, you should now see "main.exe", so to execute this file type the following into terminal:
+**Cmd.exe /c main.exe**
+
+NOTE: This program only works on Windows 10. (Windows 11 seems to show incompatibility issues)
+
 ## Credits
 
 This project was created by Jorge Garcia.
