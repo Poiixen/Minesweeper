@@ -111,4 +111,4 @@ int main() {
 
 
 //mingw32-make
-//Cmd.exe /c Project2.out
+//Cmd.exe /c main.exe
