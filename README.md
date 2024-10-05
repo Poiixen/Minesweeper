@@ -1,5 +1,6 @@
 # Minesweeper Project
-Must be cloned or installed locally to run! 
+Must be cloned or installed locally to run!  
+
 <img width="636" alt="image" src="https://github.com/Poiixen/Minesweeper/assets/120151400/1aabc65e-5ff2-4be3-bfe2-d48ef4005063">
 
 
@@ -38,10 +39,12 @@ This project utilizes SFML bindings for graphics and multimedia functionalities.
 ## How to run
 
 In the terminal, using powershell (I believe bash works as well, not tested), compile the make file:  
-**mingw32-make**
+
+>**mingw32-make**
 
 After compiling, you should now see "main.exe", so to execute this file type the following into terminal:  
-**Cmd.exe /c main.exe**
+
+>**Cmd.exe /c main.exe**
 
 NOTE: This program only works on Windows 10. (Windows 11 seems to show incompatibility issues)
 
